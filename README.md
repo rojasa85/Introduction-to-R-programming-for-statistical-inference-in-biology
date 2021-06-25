@@ -13,3 +13,9 @@ This folder contains the data sets necesary to solve the exewrcises as well as t
 
 ## /Exercises
 This folder contains exercise sheets for the different sections of the course.
+
+## /Lectures
+This folder contains the lectures to the course as well as the code necessary to create the course contents.
+
+## /Lectures/Images
+This folder contains all the images necesary to create the course contents.
